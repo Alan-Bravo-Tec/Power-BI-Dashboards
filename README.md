@@ -1,0 +1,1 @@
+This repository showcases a collection of Power BI dashboards developed during the **Power BI + AI** training program conducted by **DAXUS** in April 2026. These projects demonstrate skills in data visualization, dashboard design, data modeling, and AI-enhanced analytics.
